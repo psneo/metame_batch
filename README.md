@@ -1,5 +1,5 @@
 # metame_batch.py
-Script to blunk process EXEs for meta me.
+Script to bulk process EXEs for meta me.
 
 1) Must have metame installed
 2) Additonal -b flag to enable batch processing
