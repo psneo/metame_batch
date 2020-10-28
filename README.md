@@ -1,4 +1,4 @@
-# metame_batch.py
+# metame batch
 Script to bulk process EXEs for [metame](https://github.com/a0rtega/metame).
 
 1) Must have metame installed
